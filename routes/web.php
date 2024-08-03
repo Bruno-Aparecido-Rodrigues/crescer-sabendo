@@ -23,7 +23,7 @@ Route::get('/mural', function () {
     return view('user/ong/mural');
 });
 
-Route::get('/vol', function () {
+Route::get('/volunteer', function () {
     return view('user/ong/volunteer');
 });
 
