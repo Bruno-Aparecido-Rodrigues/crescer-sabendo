@@ -71,7 +71,7 @@
                 </div>
                 <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="absolute bottom-0 right-0 mb-1 mr-0.5" width="20.000000pt" height="20.000000pt" viewBox="0 0 64.000000 64.000000" preserveAspectRatio="xMidYMid meet"><g transform="translate(0.000000,64.000000) scale(0.100000,-0.100000)" fill="#E15C5C" stroke="none"><path d="M393 488 c-137 -139 -152 -157 -161 -200 -12 -60 -4 -68 56 -56 43 9 61 24 200 161 83 84 152 159 152 167 0 20 -61 80 -81 80 -8 0 -82 -69 -166 -152z m192 92 c14 -16 16 -23 7 -32 -10 -10 -17 -7 -33 9 -12 11 -18 26 -15 32 10 16 21 14 41 -9z m-153 -192 c-78 -78 -126 -118 -140 -118 -48 0 -24 41 95 162 l117 118 23 -22 24 -23 -119 -117z"/><path d="M25 516 l-25 -25 0 -224 c0 -293 -26 -267 269 -267 l222 0 25 25 c24 24 24 26 22 177 -3 135 -5 153 -20 156 -16 3 -18 -11 -20 -155 l-3 -158 -225 0 -225 0 0 225 0 225 158 3 c144 2 158 4 155 20 -3 15 -21 17 -156 20 -151 2 -153 2 -177 -22z"/></g></svg>
             </div>
-                 <div class="absolute left-36 bottom-0 transform translate-y-3/4 py-2 px-4">
+                 <div class="absolute left-36 bottom-0 transform translate-y-3/4 py-6 px-4">
                      <label class="text-3xl font-bold text-black">Nome da ONG</label>
                  </div>
              </div>
