@@ -107,7 +107,7 @@
                             <div class="flex flex-col md:flex-row justify-between mt-4 space-y-4 md:space-y-0 md:space-x-4">
                                 <div class="w-full md:w-2/3">
                                     <label for="voluntarios" class="text-black">Voluntários desejados</label>
-                                    <textarea id="voluntarios" name="voluntarios" placeholder="Descreva o motivo da procura por voluntários e seus requisitos" class="mt-1 block w-full resize-none border-4 border-customRed rounded-xl px-6 py-3"></textarea>
+                                    <textarea id="voluntarios" name="voluntarios" placeholder="Descreva o motivo pela procura de voluntários e os requisitos a serem atendidos " class="mt-1 block w-full resize-none border-4 border-customRed rounded-xl px-6 py-3"></textarea>
                                 </div>
                                 <div class="w-full md:w-1/3 flex md:flex-row flex-col gap-4">
                                     <div class="flex flex-col flex-1">
