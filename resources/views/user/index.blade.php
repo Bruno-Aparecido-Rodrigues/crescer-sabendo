@@ -197,7 +197,7 @@
                     </label>
                     <label class="block">
                         <span class="mt-2  block text-lg  text-gray-700">Sua mensagem</span>
-                        <textarea class="mt-1 block w-full border-4 border-customPurple  rounded-xl px-6 py-3"></textarea>
+                        <textarea class="mt-1 block w-full border-4 border-customPurple resize-none rounded-xl px-6 py-3"></textarea>
                     </label>
                     <button class="bg-customPurple text-white rounded-xl px-4 py-3 mt-4 self-start hover:bg-purple-900">Enviar</button>
             </div>

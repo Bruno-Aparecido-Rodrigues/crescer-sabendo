@@ -23,7 +23,9 @@ Route::get('/mural', function () {
     return view('user/ong/mural');
 });
 
-
+Route::get('/vol', function () {
+    return view('user/ong/volunteer');
+});
 
 // Registro e Login
 Route::get('/signin', function () {
